@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>KALItarro</title>
+		<style type="text/css">
+			body{
+				background-color: black;
+			}
+			a {
+				text-decoration: none; 
+				outline: none;	
+				color: coral;
+				}
+
+		</style>
+	</head>
+	<body>
+		<div id="d1" style="color: green;" >
+		CentOS Linux 7 (Core)
+		<br />
+		Kernel 3.10.-693.el7.x86 64 on an x86 64
+		<p></p>
+		tarro login: root
+		<br />
+		Password:
+		<br />
+		Last login: Wed Aug 30 05:38:44 from the universe
+		<br>
+		[root@tarro ~]# 
+		<br />
+		[root@tarro ~]# echo '鲍海超-GNUBHCkalitarro&nbsp;&nbsp;&nbsp;&nbsp;《hello wrold !!!》 !!!'
+		<br />
+		<h1 style="color: aliceblue;">鲍海超-GNUBHCkalitarro&nbsp;&nbsp;&nbsp;《hello wrold !!!》</h1>
+		<br>
+		[root@tarro ~]# 
+		<br>
+		[root@tarro ~]# 
+		<br>
+		[root@tarro ~]# 
+		<br />
+		[root@tarro ~]# systemctl start httpd
+		<br />
+		[root@tarro ~]# date
+		<br />
+		<h1 style="color: aliceblue;">2023年 01月 02日 星期一 02:36:00 CST</h1>
+		<br>
+		[root@tarro ~]# 
+		<br>
+		[root@tarro ~]# 
+		<br>
+		[root@tarro ~]# <span style="color: coral;">echo "点击链接前往我的博客"</span>
+		</div>
+		<h1 style="font-size: 40px; color: coral; text-align: center;"><a href="https://blog.csdn.net/w14768855?spm=1000.2115.3001.5343">https://blog.csdn.net/w14768855?spm=1000.2115.3001.5343</a></h1>
+		
+	</body>
+</html>
